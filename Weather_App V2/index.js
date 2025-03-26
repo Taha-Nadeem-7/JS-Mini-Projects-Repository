@@ -1,7 +1,7 @@
 const wheatherForm=document.querySelector(".wheatherForm");
 const cityInput = document.querySelector(".cityInput");
 const card=document.querySelector(".card");
-const apiKey="236dbfb255395dae5350927376ef79f4";
+const apiKey="key";
 
 wheatherForm.addEventListener("submit", async event=>{
 
